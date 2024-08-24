@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://relectom.github.io/sitemap.html.gz
+Sitemap: https://relectom.github.io/app/sitemap.html.gz
+Sitemap: https://relectom.github.io/assets/sitemap.html.gz
+Sitemap: https://relectom.github.io/css/sitemap.html.gz
+Sitemap: https://relectom.github.io/includes/sitemap.html.gz
+Sitemap: https://relectom.github.io/item/sitemap.html.gz
+Sitemap: https://relectom.github.io/src/sitemap.html.gz
